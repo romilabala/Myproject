@@ -4,7 +4,7 @@ public static void main(String args[])
 {
 
 String s= "Hellow";
-String s= "Hellow World";
+String s1= "Hellow World";
 
 System.out.println(s);
 System.out.println(s1);
